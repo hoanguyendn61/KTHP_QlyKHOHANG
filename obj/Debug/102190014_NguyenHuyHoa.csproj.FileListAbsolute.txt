@@ -1,0 +1,16 @@
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\102190014_NguyenHuyHoa.exe.config
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\102190014_NguyenHuyHoa.exe
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\102190014_NguyenHuyHoa.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\EntityFramework.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\EntityFramework.xml
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.csprojAssemblyReference.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\_102190014_NguyenHuyHoa._102190014_DF.resources
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\_102190014_NguyenHuyHoa.Properties.Resources.resources
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.csproj.GenerateResource.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.csproj.CoreCompileInputs.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.csproj.CopyComplete
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.exe
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\102190014_NguyenHuyHoa.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\CUOIKI\102190014_NguyenHuyHoa\obj\Debug\_102190014_NguyenHuyHoa._102190014_MF.resources
